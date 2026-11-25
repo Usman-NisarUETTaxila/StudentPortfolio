@@ -6,7 +6,3 @@ Usman Nisar
 
 # Department
 Software Engineering
-
-# StudentPortfolio
-This repo is for my lab 10
-
