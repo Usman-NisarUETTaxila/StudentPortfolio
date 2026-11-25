@@ -5,4 +5,4 @@ Usman Nisar
 24-SE-03
 
 # Department
-Software Engineering
+Electrical Engineering 
